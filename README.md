@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Shreyansh Srivastava | Sr. IT Recruiter</title>
+  <title>Shreyansh Srivastava | Recruitment Specialists</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Mono:ital,wght@0,300;0,400;1,300&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
     :root {
@@ -435,7 +435,7 @@
   <section id="hero">
     <div class="hero-bg-text">Recruit</div>
     <div class="hero-left">
-      <div class="hero-tag">Sr. IT Recruiter · Workday Certified</div>
+      <div class="hero-tag">Recruitment specialist · Workday Certified</div>
       <h1 class="hero-name">Shreyansh<br><em>Srivastava</em></h1>
       <p class="hero-title">// Full-Cycle Technical Recruitment · Global Markets</p>
       <div class="typewriter-container">
@@ -470,7 +470,7 @@
     </div>
     <div class="about-grid">
       <div class="about-bio reveal">
-        <p>Results-driven <strong>Senior Technical Recruiter</strong> with 4+ years of specialized experience in IT talent acquisition across <strong>global markets</strong> — UK, EU, US, and India.</p>
+        <p>Results-driven <strong>Recruitment specialist</strong> with 4+ years of specialized experience in IT talent acquisition across <strong>global markets</strong> — UK, EU, US, and India.</p>
         <p>Proven track record delivering high-quality candidates for <strong>Fortune 500 clients</strong> in Investment Banking, Wealth Management, and Commercial Banking sectors. Expert in full-cycle recruitment, ATS/VMS platforms, and strategic sourcing methodologies.</p>
         <p><strong>Workday Certified</strong> with demonstrated success in building high-performing technical teams and maintaining exceptional client satisfaction rates. My approach blends sharp technical intuition with a deep understanding of people — matching not just skills, but potential.</p>
       </div>
@@ -592,7 +592,7 @@
   </section>
 
   <footer>
-    <p>© 2026 Shreyansh Srivastava · Sr. IT Recruiter</p>
+    <p>© 2026 Shreyansh Srivastava · Recruitment Specialist</p>
     <p>Noida, Uttar Pradesh, India</p>
   </footer>
 
